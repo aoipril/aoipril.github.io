@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![aoipril](https://img.shields.io/badge/aoipril-github-blue?logo=github)](https://github.com/aoipril)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently an M.S. student in the College of Computer Science and Software Engineering at Shenzhen University.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: 2500101022&#64;szu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+M.S., Computer Science and Technology, Shenzhen University, 2025—Present.\
+B.E., Guangdong University of Technology, 2021—2025.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
 
+Large Language Models; LLM Evaluation; Social Intelligence; Game-based Evaluation; 
